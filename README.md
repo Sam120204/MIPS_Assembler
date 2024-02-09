@@ -1,17 +1,15 @@
 <div align="center">
-  <img src="">
+  <img src="download.png">
   <br>
 </div>
 
 Architecture Coursework
 ==========================
 
-The code can be found  <a href="https://github.com/gioannides/EIE2-MIPS_SIMULATOR">here</a>.
+The code can be found  <a href="https://github.com/Sam120204/MIPS_Assembler“>here</a>.
 -------------------------------------------------------------------------------------------
 
-The task was to develop a MIPS CPU simulator, which can accurately execute
-MIPS-1 big-endian binaries. Also a testbench was developed which is able to 
-test a MIPS simulator, and try to work out whether it is correct.
+The task was to develop a MIPS CPU simulator, using C++
 
 Terminology
 -----------

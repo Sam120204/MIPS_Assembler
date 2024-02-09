@@ -6,7 +6,7 @@
 Architecture Coursework
 ==========================
 
-The code can be found  <a href="https://github.com/Sam120204/MIPS_Assembler“>here</a>.
+The code can be found  <a href="https://github.com/Sam120204/MIPS_Assembler">here</a>.
 -------------------------------------------------------------------------------------------
 
 The task was to develop a MIPS CPU simulator, using C++
